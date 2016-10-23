@@ -18,7 +18,7 @@
  *
 --%> 
 <div style="border-bottom: 1px solid black; padding-bottom:5px; margin-bottom:10px;">
-    <ul id="menu"> rrrrrr
+    <ul id="menu"> rrrr
         <li class="first">
             <span style="font-weight:bold; font-size:large;">Radiology system</span>
         </li>
